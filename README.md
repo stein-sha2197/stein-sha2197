@@ -1,0 +1,4 @@
+- Sharon (she/her)
+- Spends free time reading, running, and learning
+- Currently studying Computer Science (May 2025)
+- I love the endless possibilities that programing allows for
