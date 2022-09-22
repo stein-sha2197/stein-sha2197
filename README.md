@@ -3,4 +3,4 @@
 - Currently studying Computer Science ( A.S. May 2023)
 - I love the endless possibilities that programing allows for
 - Class projects have the class identifier in the repository name. 
--Otherwise, it's a personal project.
+- Otherwise, it's a personal project.
