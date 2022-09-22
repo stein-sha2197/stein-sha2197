@@ -2,4 +2,5 @@
 - Spends free time reading, running, and learning
 - Currently studying Computer Science ( A.S. May 2023)
 - I love the endless possibilities that programing allows for
-- Always looking for internship opportunities. Contact me at sharonmars10steinke@gmail.com
+- Class projects have the class identifier in the repository name. 
+-Otherwise, it's a personal project.
