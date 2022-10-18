@@ -2,5 +2,6 @@
 - Spends free time reading, running, and learning
 - Currently studying Computer Science ( A.S. May 2023)
 - I love the endless possibilities that programing allows for
+- I create repositories for various ideas I have (may not be completed or started)
 - Class projects have the class identifier in the repository name 
 - Otherwise, it's a personal project
